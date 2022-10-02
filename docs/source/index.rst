@@ -7,6 +7,7 @@ Welcome to OnDuty911's documentation
 ===================================
 
  OnDuty911, is a versatile 911 script that strides to make a tidy-free LEO/EMS Response! This script works with 
+  `Link text <https://docs.badger.store/fivem-discord-scripts/policeemsactivity/>`_
  .. PoliceEMSActivity: https://docs.badger.store/fivem-discord-scripts/policeemsactivity and  .. t-notify: https://github.com/TasoOneAsia/t-notify/releases/tag/v1.5.1
  
 
